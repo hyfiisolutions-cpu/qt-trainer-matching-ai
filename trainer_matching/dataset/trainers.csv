@@ -1,0 +1,101 @@
+trainer_id,name,skills,experience_years,location,available,hourly_rate
+T001,Trainer A,"Python, SQL, PostgreSQL, Data Science",1,Jaipur,Yes,1803
+T002,Trainer B,"Angular, JavaScript, HTML, CSS, TypeScript, Node.js",11,Jaipur,No,1156
+T003,Trainer C,"Azure, Docker, Kubernetes, Python, C++, Java, Angular",4,Gurgaon,No,908
+T004,Trainer D,"AWS, Docker, Kubernetes, Python, Tableau",4,Chennai,No,1939
+T005,Trainer E,"Python, Spark, Databricks, SQL",13,Noida,Yes,2193
+T006,Trainer F,"Python, Machine Learning, Data Science, Scikit-learn, PostgreSQL",13,Pune,Yes,1179
+T007,Trainer G,"Python, NLP, Machine Learning, Generative AI",6,Pune,No,1883
+T008,Trainer H,"Python, Spark, Databricks, SQL",12,Chennai,No,1311
+T009,Trainer I,"Python, FastAPI, PostgreSQL, Docker, Angular, Kubernetes, LangChain",10,Gurgaon,Yes,987
+T010,Trainer J,"Python, SQL, PostgreSQL, Data Science, Kubernetes",2,Gurgaon,Yes,2356
+T011,Trainer K,"Python, Machine Learning, Data Science, Scikit-learn, LangChain, Spring Boot, Generative AI",4,Ahmedabad,Yes,1092
+T012,Trainer L,"Azure, Docker, Kubernetes, Python, AWS",3,Chennai,Yes,1905
+T013,Trainer M,"Python, FastAPI, PostgreSQL, Docker, Deep Learning",14,Bangalore,Yes,931
+T014,Trainer N,"Python, Spark, Databricks, SQL, Power BI, Docker",2,Gurgaon,No,2088
+T015,Trainer O,"Angular, JavaScript, HTML, CSS, TypeScript, Power BI, TensorFlow",5,Noida,Yes,1876
+T016,Trainer P,"Power BI, SQL, Tableau, Excel, LangChain, MongoDB",3,Kolkata,Yes,1172
+T017,Trainer Q,"Python, Spark, Databricks, SQL",14,Delhi,Yes,1455
+T018,Trainer R,"Python, Spark, Databricks, SQL, React, Data Science, TensorFlow",9,Mumbai,No,847
+T019,Trainer S,"Python, SQL, PostgreSQL, Data Science",11,Kolkata,Yes,2193
+T020,Trainer T,"Python, Django, Flask, FastAPI, HTML, Spring Boot",8,Bangalore,Yes,2850
+T021,Trainer U,"Python, Spark, Databricks, SQL",15,Delhi,Yes,2879
+T022,Trainer V,"Azure, Docker, Kubernetes, Python, FastAPI",6,Noida,No,2972
+T023,Trainer W,"Python, FastAPI, PostgreSQL, Docker",10,Pune,Yes,879
+T024,Trainer X,"Python, Django, Flask, FastAPI, Machine Learning, AWS",1,Gurgaon,No,1122
+T025,Trainer Y,"Python, Django, Flask, FastAPI, React, PyTorch",9,Noida,Yes,2961
+T026,Trainer Z,"C++, Python, SQL, PostgreSQL, Machine Learning",7,Ahmedabad,Yes,2594
+T027,Trainer A2,"Python, FastAPI, PostgreSQL, Docker, Django, AWS, MongoDB",2,Pune,Yes,1742
+T028,Trainer B2,"Azure, Docker, Kubernetes, Python",2,Jaipur,Yes,1737
+T029,Trainer C2,"Python, Django, Flask, FastAPI",14,Pune,Yes,2905
+T030,Trainer D2,"Angular, JavaScript, HTML, CSS, TypeScript, Spark, PostgreSQL",9,Noida,No,2736
+T031,Trainer E2,"Angular, JavaScript, HTML, CSS, TypeScript, Tableau, SQL",2,Ahmedabad,Yes,2251
+T032,Trainer F2,"Python, NLP, Machine Learning, Generative AI, TensorFlow, JavaScript, Node.js",1,Hyderabad,Yes,1247
+T033,Trainer G2,"Angular, JavaScript, HTML, CSS, TypeScript, SQL",9,Chennai,Yes,2528
+T034,Trainer H2,"React, JavaScript, HTML, CSS, Node.js, TensorFlow, AWS",14,Delhi,Yes,1201
+T035,Trainer I2,"Java, Spring Boot, Hibernate, SQL",2,Gurgaon,Yes,2464
+T036,Trainer J2,"Python, Generative AI, LangChain, NLP, PostgreSQL, Power BI, JavaScript",3,Hyderabad,Yes,2399
+T037,Trainer K2,"Python, Machine Learning, Data Science, Scikit-learn, Kubernetes, HTML, Spark",3,Gurgaon,Yes,1691
+T038,Trainer L2,"Java, Spring Boot, Hibernate, SQL",12,Pune,Yes,1005
+T039,Trainer M2,"Azure, Docker, Kubernetes, Python, Databricks, Spring Boot, JavaScript",9,Delhi,Yes,1080
+T040,Trainer N2,"Azure, Docker, Kubernetes, Python",11,Gurgaon,Yes,1291
+T041,Trainer O2,"Python, FastAPI, PostgreSQL, Docker, C++",10,Delhi,Yes,2941
+T042,Trainer P2,"Python, Deep Learning, TensorFlow, PyTorch, PostgreSQL",4,Mumbai,Yes,1336
+T043,Trainer Q2,"Python, SQL, PostgreSQL, Data Science, TensorFlow, Deep Learning",15,Delhi,Yes,2677
+T044,Trainer R2,"Azure, Docker, Kubernetes, Python",2,Kolkata,Yes,2872
+T045,Trainer S2,"Python, Machine Learning, Data Science, Scikit-learn, Generative AI",15,Delhi,Yes,2313
+T046,Trainer T2,"Python, Machine Learning, Data Science, Scikit-learn, CSS",14,Kolkata,Yes,2966
+T047,Trainer U2,"Java, Spring Boot, Hibernate, SQL, Node.js, Flask",5,Delhi,Yes,1436
+T048,Trainer V2,"Python, Machine Learning, Data Science, Scikit-learn, PostgreSQL, NLP",4,Ahmedabad,Yes,2870
+T049,Trainer W2,"Python, Generative AI, LangChain, NLP, JavaScript, Angular",11,Hyderabad,Yes,980
+T050,Trainer X2,"Java, Spring Boot, Hibernate, SQL, Flask, Azure",3,Jaipur,Yes,2551
+T051,Trainer Y2,"AWS, Docker, Kubernetes, Python",2,Delhi,Yes,947
+T052,Trainer Z2,"C++, Python, SQL, FastAPI, HTML",3,Bangalore,Yes,2293
+T053,Trainer A3,"Python, FastAPI, PostgreSQL, Docker",15,Pune,Yes,1822
+T054,Trainer B3,"Python, SQL, PostgreSQL, Data Science",6,Kolkata,Yes,1433
+T055,Trainer C3,"Python, FastAPI, PostgreSQL, Docker, Spring Boot",13,Noida,Yes,901
+T056,Trainer D3,"React, JavaScript, HTML, CSS, Node.js, Tableau, AWS",5,Noida,Yes,2366
+T057,Trainer E3,"C++, Python, SQL",14,Chennai,Yes,1617
+T058,Trainer F3,"C++, Python, SQL, Generative AI, Machine Learning, MongoDB",4,Bangalore,Yes,2432
+T059,Trainer G3,"Python, Deep Learning, TensorFlow, PyTorch, React, Docker",6,Ahmedabad,No,2437
+T060,Trainer H3,"Python, SQL, PostgreSQL, Data Science, Java, Django",15,Mumbai,Yes,1887
+T061,Trainer I3,"Java, Spring Boot, Hibernate, SQL",10,Hyderabad,Yes,2084
+T062,Trainer J3,"Python, NLP, Machine Learning, Generative AI",7,Mysore,Yes,1843
+T063,Trainer K3,"Java, Spring Boot, Hibernate, SQL, Python, LangChain",7,Delhi,Yes,2085
+T064,Trainer L3,"Python, SQL, PostgreSQL, Data Science",12,Mumbai,No,2066
+T065,Trainer M3,"Python, SQL, PostgreSQL, Data Science, Deep Learning, Power BI, Kubernetes",9,Noida,Yes,2522
+T066,Trainer N3,"Python, SQL, PostgreSQL, Data Science, Hibernate, Machine Learning, Power BI",9,Bangalore,Yes,1975
+T067,Trainer O3,"Angular, JavaScript, HTML, CSS, TypeScript, Deep Learning, TensorFlow",8,Ahmedabad,Yes,2893
+T068,Trainer P3,"Python, Generative AI, LangChain, NLP, Angular",5,Kolkata,No,2172
+T069,Trainer Q3,"Python, Django, Flask, FastAPI, Machine Learning",4,Gurgaon,Yes,900
+T070,Trainer R3,"Java, Spring Boot, Hibernate, SQL, PyTorch",10,Delhi,Yes,2497
+T071,Trainer S3,"Python, FastAPI, PostgreSQL, Docker, Data Science",8,Hyderabad,Yes,1404
+T072,Trainer T3,"Python, SQL, PostgreSQL, Data Science",15,Delhi,Yes,1696
+T073,Trainer U3,"React, JavaScript, HTML, CSS, Node.js, AWS, Django",8,Noida,Yes,2975
+T074,Trainer V3,"AWS, Docker, Kubernetes, Python, CSS, Databricks",7,Kolkata,Yes,1451
+T075,Trainer W3,"Power BI, SQL, Tableau, Excel, CSS, Azure, AWS",14,Ahmedabad,Yes,2935
+T076,Trainer X3,"Python, Generative AI, LangChain, NLP, Docker",8,Delhi,Yes,1760
+T077,Trainer Y3,"Python, Machine Learning, Data Science, Scikit-learn, Deep Learning, Angular",3,Noida,Yes,2368
+T078,Trainer Z3,"Power BI, SQL, Tableau, Excel, PostgreSQL",2,Hyderabad,Yes,2155
+T079,Trainer A4,"AWS, Docker, Kubernetes, Python, Tableau, JavaScript, PostgreSQL",14,Hyderabad,Yes,880
+T080,Trainer B4,"C++, Python, SQL, PyTorch, Generative AI",5,Hyderabad,Yes,1703
+T081,Trainer C4,"Python, Generative AI, LangChain, NLP, Docker",7,Chennai,Yes,2392
+T082,Trainer D4,"Python, Deep Learning, TensorFlow, PyTorch, Spring Boot, Flask",10,Kolkata,Yes,2413
+T083,Trainer E4,"Azure, Docker, Kubernetes, Python",2,Ahmedabad,Yes,1355
+T084,Trainer F4,"C++, Python, SQL, Hibernate, JavaScript, Azure",7,Pune,Yes,2662
+T085,Trainer G4,"Python, Deep Learning, TensorFlow, PyTorch, Data Science, Docker",13,Hyderabad,Yes,1135
+T086,Trainer H4,"Python, Generative AI, LangChain, NLP",12,Kolkata,Yes,2233
+T087,Trainer I4,"Angular, JavaScript, HTML, CSS, TypeScript",13,Ahmedabad,Yes,927
+T088,Trainer J4,"Angular, JavaScript, HTML, CSS, TypeScript, Java",10,Noida,Yes,1317
+T089,Trainer K4,"Python, Generative AI, LangChain, NLP",10,Gurgaon,Yes,1849
+T090,Trainer L4,"Python, Spark, Databricks, SQL, Spring Boot, Django",13,Noida,Yes,1242
+T091,Trainer M4,"Azure, Docker, Kubernetes, Python",15,Mumbai,No,2337
+T092,Trainer N4,"Python, NLP, Machine Learning, Generative AI, React",10,Jaipur,Yes,1217
+T093,Trainer O4,"Power BI, SQL, Tableau, Excel, Django, C++",6,Kolkata,Yes,2317
+T094,Trainer P4,"Python, Django, Flask, FastAPI, Tableau",14,Chennai,Yes,2575
+T095,Trainer Q4,"Python, Deep Learning, TensorFlow, PyTorch, FastAPI, HTML, Hibernate",12,Kolkata,Yes,2780
+T096,Trainer R4,"Python, Generative AI, LangChain, NLP, Docker, Deep Learning, AWS",14,Delhi,Yes,2646
+T097,Trainer S4,"Angular, JavaScript, HTML, CSS, TypeScript, Data Science, NLP",8,Pune,Yes,2797
+T098,Trainer T4,"Angular, JavaScript, HTML, CSS, TypeScript, Azure, NLP",5,Mysore,Yes,841
+T099,Trainer U4,"AWS, Docker, Kubernetes, Python, Angular",4,Jaipur,Yes,2801
+T100,Trainer V4,"AWS, Docker, Kubernetes, Python, PyTorch",11,Jaipur,Yes,2635

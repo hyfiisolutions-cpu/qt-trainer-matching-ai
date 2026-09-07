@@ -1,0 +1,31 @@
+requirement_id,required_skills,min_experience,location,duration_months,budget_per_hour
+R001,"Java, Spring Boot, Hibernate",4,Bangalore,3,2000
+R002,"Python, Django",3,Delhi,2,1800
+R003,"React, JavaScript, HTML, CSS",2,Noida,3,1500
+R004,"Angular, JavaScript, HTML, CSS",3,Gurgaon,4,1800
+R005,"Python, Machine Learning, Data Science",3,Hyderabad,3,2200
+R006,"Python, Deep Learning, TensorFlow",4,Bangalore,3,2500
+R007,"Python, NLP, Generative AI",3,Pune,3,2500
+R008,"Python, Generative AI, LangChain",2,Bangalore,4,2800
+R009,"AWS, Docker, Kubernetes",4,Mumbai,3,2400
+R010,"Azure, Docker, Kubernetes",3,Hyderabad,3,2200
+R011,"Python, SQL, PostgreSQL",2,Chennai,2,1600
+R012,"Power BI, SQL, Tableau",3,Delhi,3,1700
+R013,"Python, Spark, Databricks",4,Pune,4,2400
+R014,"C++, Python, SQL",3,Bangalore,3,1900
+R015,"Python, FastAPI, PostgreSQL, Docker",3,Noida,3,2100
+R016,"Java, Spring Boot, Hibernate",4,Bangalore,3,2000
+R017,"Python, Django",3,Delhi,2,1800
+R018,"React, JavaScript, HTML, CSS",2,Noida,3,1500
+R019,"Angular, JavaScript, HTML, CSS",3,Gurgaon,4,1800
+R020,"Python, Machine Learning, Data Science",3,Hyderabad,3,2200
+R021,"Python, Deep Learning, TensorFlow",4,Bangalore,3,2500
+R022,"Python, NLP, Generative AI",3,Pune,3,2500
+R023,"Python, Generative AI, LangChain",2,Bangalore,4,2800
+R024,"AWS, Docker, Kubernetes",4,Mumbai,3,2400
+R025,"Azure, Docker, Kubernetes",3,Hyderabad,3,2200
+R026,"Python, SQL, PostgreSQL",2,Chennai,2,1600
+R027,"Power BI, SQL, Tableau",3,Delhi,3,1700
+R028,"Python, Spark, Databricks",4,Pune,4,2400
+R029,"C++, Python, SQL",3,Bangalore,3,1900
+R030,"Python, FastAPI, PostgreSQL, Docker",3,Noida,3,2100
